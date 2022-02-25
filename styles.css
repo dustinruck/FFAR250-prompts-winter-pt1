@@ -18,6 +18,13 @@ body {
   max-height: 100vh;
   margin: auto;
 
-.gif {
-  width: 800px;
+
+#gif {
+  text-align: center;
 }
+
+  .gif {
+    width: 900px;
+    height: auto;
+    padding-left: 30px;
+  }
